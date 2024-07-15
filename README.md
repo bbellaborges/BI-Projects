@@ -9,3 +9,4 @@
 
  Os arquivos sqlb1 e 2 são prints de uma exploração no Fabric exemplificando equivalência entre uma consulta SQL e uma consulta visual. Os dados utilizados para isso dizem respeito a venda de bicicletas e as tabelas não sofreram alterações.
 
+A pasta PAT1 diz respeito a um um fluxo simples resultado de uma exploração mo Power Automate.
